@@ -44,12 +44,6 @@ import requests
 #     footer('libinfo', Library, arr)
 #     return HttpResponse('Libraries table updated')
 
-# def csv_to_df(request):
-#     df = pd.read_csv("/home/ubuntu/chatbot/libraries/libinfo_df.csv")
-#     d = '구수산도서관'
-#     idx = df.index[(df['name'] == d)]
-#     ans = df.loc[idx]['seat']
-#     return HttpResponse(idx)
 
 df = pd.read_csv("/home/ubuntu/chatbot/libraries/libinfo_df.csv")
 
@@ -108,19 +102,25 @@ def facilities(request):
 
     if info == '편의시설':
         return JsonResponse({
-            'version': "2.0",
-            'template': {
-                'outputs': [{
-                    'simpleText': {
-                        'text': 'https://www.google.com/'
+            "contents":[
+                {
+                "type":"card.text",
+                "cards":[
+                    {
+                    "description":"빅데이터가 알려주는 공공도서관 장애인 편의시설입니다",
+                    "buttons":[
+                        {
+                            "type": "url",
+                            "label": "바로가기",
+                            "data": {
+                                "url":"https://bit.ly/3EItXwW"
+                            }
+                        }
+                    ]
                     }
-                }],
-                'quickReplies': [{
-                    'label': '처음으로',
-                    'action': 'message',
-                    'messageText': '처음으로'
-                    }],
-                } 
+                ]
+                }
+            ]
             })
 
 

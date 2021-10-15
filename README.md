@@ -1,9 +1,8 @@
-<h1 align="center"><strong> GIS Spatial Analysis and Policy Recommendations for Disabled </strong></h1>
+# GIS Spatial Analysis and Policy Recommendations for Disabled
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/87461728/137341169-df8a09d7-50c8-43ab-a495-f6f2dbc990da.jpg">
-</p>
-`🏆제 3회 대구 빅데이터 분석 경진대회 대상` `🥇공공부분 1위` `#대구디지털산업진흥원` `#대구은행` `#Flower팀`
+![수상](https://user-images.githubusercontent.com/87461728/137341169-df8a09d7-50c8-43ab-a495-f6f2dbc990da.jpg)
+
+`🏆제 3회 대구 빅데이터 분석 경진대회 대상`  `🥇공공부분 1위`  `#대구디지털산업진흥원`  `#대구은행`  `#Flower팀`
 
 ## Introduction
 
@@ -60,7 +59,7 @@ Notification: [link](https://www.dip.or.kr/home/notice/boardRead.ubs?sfpsize=20&
 
 ![image-20211015225241048](https://user-images.githubusercontent.com/87461728/137498525-a1079fd5-15b1-4f04-88cd-435b0ada086c.png)
 
-용산역~ 감산역 일대, 서부정류장역~영남대역 일대 등 대체적으로 지하철 역과 공원 인근에서 최적 입지가 선정됨
+용산역~감산역 일대, 서부정류장역~영남대역 일대 등 대체적으로 지하철 역과 공원 인근에서 최적 입지가 선정됨
 
 ---
 

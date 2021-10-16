@@ -23,7 +23,7 @@ Notification: [link](https://www.dip.or.kr/home/notice/boardRead.ubs?sfpsize=20&
 
 대상 수상
 
-* article: [link](https://www.nocutnews.co.kr/news/5640010)
+* Article: [link](https://www.nocutnews.co.kr/news/5640010)
 
 ## Tech Stack
 
@@ -59,9 +59,8 @@ Notification: [link](https://www.dip.or.kr/home/notice/boardRead.ubs?sfpsize=20&
 
 ![image-20211015225241048](https://user-images.githubusercontent.com/87461728/137498525-a1079fd5-15b1-4f04-88cd-435b0ada086c.png)
 
-용산역~감산역 일대, 서부정류장역~영남대역 일대 등 대체적으로 지하철 역과 공원 인근에서 최적 입지가 선정됨
+용산역 ~ 감산역 일대, 서부정류장역 ~ 영남대역 일대 등 대체적으로 지하철 역과 공원 인근에서 최적 입지가 선정됨
 
 ---
 
-자세한 분석 과정 및 결과는 [presentation](https://github.com/yoonhyeyoon/Daegu-bigdata-contest/tree/main/presentation)의 결과 보고서와 pdf파일을 참고해주세요 :blush:
-
+자세한 분석 과정 및 결과는 [presentation](https://github.com/yoonhyeyoon/Daegu-bigdata-contest/tree/main/presentation)의 분석 보고서와 pdf파일을 참고해주시길 바랍니다 :blush:
